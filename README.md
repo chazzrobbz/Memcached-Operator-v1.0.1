@@ -1,0 +1,1 @@
+# Memcached-Operator-v1.0.1
